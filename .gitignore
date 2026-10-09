@@ -1,0 +1,6 @@
+runs/
+runs_mock/
+results.json/
+__pycache__/
+.env
+*.env
